@@ -14,7 +14,7 @@ This tutorial outlines the process of assigning Authentication methods to user a
 
 <h2>Operating Systems Used</h2>
 
-- Windows 11
+- macOS Sequoia
 
 <h2>Authentication Methods</h2>
 
